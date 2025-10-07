@@ -1,5 +1,6 @@
 percentage = float(input("masukkan persentase nilai siswa:"))
 
+
 if percentage >= 90:
         print("Excellent perfomance")
 elif percentage >= 80:
